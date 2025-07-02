@@ -9,7 +9,7 @@
 
 Принимает изображение (`.jpg`, `.png`)
 
-Отправляет его в [DeepAI NSFW API](https://deepai.org/machine-learning-model/nsfw-detector)
+Отправляет его в [DeepAI NSFW API](`https://deepai.org/machine-learning-model/nsfw-detector`)
 
 ### Возвращает результат:
 
